@@ -1,0 +1,83 @@
+# Site settings
+languageCode = "en-us"
+title = "Monsterovich's website"
+theme = "website"
+uglyurls = false
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Monsterovich // Nikolay Borodin"
+	description = ""
+
+	# Since this template is static, the contact form uses www.formspree.io as a
+	# proxy. The form makes a POST request to their servers to send the actual
+	# email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+	email = "monsterovich@gmail.com"
+
+
+	# Header an navigation
+	#
+	# To change the header background the 'hero-bg-jpg' at 'static/img'.
+	# Do the same with the logo ('logo.svg').
+	# But keep the original filename!
+	[params.header]
+		title = "Monsterovich's"
+		shortBio = "Producer // Programmer // Artist"
+
+
+	# About section
+	#
+	# Replace the 'avatar.jpg' under 'static/img' with your own image.
+	[params.about]
+		title = "About me"
+		bio = "A rising artist from Russia. Since 2010-2012 I started producing tracks in various genres (mostly soundtracks). All my songs are original except some remixes that are not bad either. Also I develop various software, including software for musicians & DJs. "
+
+#		[[params.about.skills]]
+#			name = "test"
+#			value = 10
+
+
+	# Contact secion
+	[params.contact]
+		title = "Contact"
+
+		# The following social network icons are available:
+		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
+		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+		[[params.contact.social]]
+			icon = "facebook"
+			link = "//facebook.com/monsterovich"
+
+		[[params.contact.social]]
+			icon = "youtube"
+			link = "//www.youtube.com/channel/UCEsB61hh8DpAhwkNfvoc8sA"
+
+		[[params.contact.social]]
+			icon = "soundcloud"
+			link = "//soundcloud.com/monsterovich"
+
+
+	[params.form]
+		title = "You want to talk?"
+		# Form fields
+		name = "Your Name"
+		email = "Your Email"
+		message = "Contact me"
+		buttonText = "Send!"
+
+
+#	[params.footer]
+#		copyright = "Published under the Unlicense License."

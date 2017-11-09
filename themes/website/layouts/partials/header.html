@@ -1,0 +1,6 @@
+{{ "<!-- Header section -->" | safeHTML }}
+<header id="header">
+    <nav></nav>
+    {{ with .Site.Params.header.title }}<h1><span>{{ . }}</span></h1>{{ end }}
+    {{ with .Site.Params.header.shortBio }}<p class="kicker">{{ . }}</p>{{ end }}
+</header>

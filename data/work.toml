@@ -1,0 +1,13 @@
+# Section title
+title = "Projects & Art"
+
+
+[[projects]]
+    name = "My Music"
+    folder = "mymusic"
+
+[[projects]]
+    name = "LaunchpadD"
+    folder = "launchpadd"
+
+
