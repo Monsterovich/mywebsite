@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Monsterovich&#39;s website</title>
+    <link>http://monsterovich.ml/work/</link>
+    <description>Recent content in Works on Monsterovich&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://monsterovich.ml/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://monsterovich.ml/work/launchpadd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://monsterovich.ml/work/launchpadd/</guid>
+      <description>LaunchpadD is a fully configurable music creation tool for android platform.
+Features
+ Client/server support! MIDI support! Very light and easy GUI that&amp;rsquo;s configured specially for your display size. Configurable amount of sound buttons. Large amount of button options &amp;amp; commands. You can touch multiple buttons in the same time. User-defined GUI style for buttons and borders. Supported multiple types of audio formats. Optimized to decrease sound latency: small audio buffers and all samples preloaded.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://monsterovich.ml/work/mymusic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://monsterovich.ml/work/mymusic/</guid>
+      <description>The best tracks:
+ All tracks on soundcloud
+Buy my tracks on Bandcamp in high quality here!
+You can donate if you like what I do:
+ PayPal: monsterovich@gmail.com Yandex money: 410014539584441 Ethereum: 0x7575c05460b5c2c9fbd1fcc2dd4cc0a246f7f672 Bitcoin and Bitcoin Cash: 15qJAm2bANrFKkwLFK1RWaRv8hYwzwo3cz  </description>
+    </item>
+    
+  </channel>
+</rss>
