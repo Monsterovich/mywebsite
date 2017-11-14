@@ -612,7 +612,7 @@ header, footer {
 header {
   background-position: 30px 20px, 50% 50%;
   background-image: url(../img/logo.png), url(../img/hero-bg.jpg);
-  background-attachment:fixed;    /* this keeps the background in place */
+  /*background-attachment:fixed;*/    /* this keeps the background in place */
   background-repeat:no-repeat;
   box-shadow: 2px 4px 8px rgba(0, 0, 0, .5);
   padding-bottom: 50px; }

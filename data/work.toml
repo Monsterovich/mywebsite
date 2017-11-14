@@ -12,4 +12,4 @@ title = "Projects & Art"
 
 [[projects]]
     name = "Soundcloud Group Bot"
-    folder "scgb"
+    folder = "scgb"
