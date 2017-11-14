@@ -10,4 +10,6 @@ title = "Projects & Art"
     name = "LaunchpadD"
     folder = "launchpadd"
 
-
+[[projects]]
+    name = "Soundcloud Group Bot"
+    folder "scgb"
