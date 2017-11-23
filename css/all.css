@@ -611,7 +611,7 @@ header, footer {
 
 header {
   background-position: 30px 20px, 50% 50%;
-  background-image: url(../img/logo.png), url(../img/hero-bg.jpg);
+  
   /*background-attachment:fixed;*/    /* this keeps the background in place */
   background-repeat:no-repeat;
   box-shadow: 2px 4px 8px rgba(0, 0, 0, .5);
@@ -642,6 +642,18 @@ header {
     margin-bottom: 20px;
     clear: both;
     padding-top: 100px; }
+  header video {
+    position:absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    object-fit: cover;
+    width: 100%;
+    height: 358px;
+    z-index: -100;
+    }
     header h1 span {
       display: inline-block;
       padding: 0.2em 0.5em;
