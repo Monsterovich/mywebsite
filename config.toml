@@ -34,7 +34,7 @@ uglyurls = false
 	# Do the same with the logo ('logo.svg').
 	# But keep the original filename!
 	[params.header]
-		title = "Monsterovich's"
+		title = "Monsterovich"
 		shortBio = "Producer // Programmer // Artist"
 
 
