@@ -2,7 +2,7 @@
 
 **The best tracks:**
 
-{{< soundcloud >}}
+{{< spotify >}}
 
 [All tracks on soundcloud](https://soundcloud.com/monsterovich)
 
