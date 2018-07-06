@@ -14,4 +14,4 @@ LaunchpadD is a fully configurable music creation tool for android platform.
 - Supported multiple types of audio formats.
 - Optimized to decrease sound latency: small audio buffers and all samples preloaded.
 
-[Download from bitbucket](https://bitbucket.org/Monsterovich/launchpadd)
+[Download from bitbucket](https://bitbucket.org/Monsterovich/launchpad_daemon/)
