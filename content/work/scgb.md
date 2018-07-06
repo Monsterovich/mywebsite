@@ -6,6 +6,6 @@ Despite the fact that the soundcloud API has a lot of limitations, this program 
 **See more:**
 
 - [Lost Talent Group aka LTG - the first group created with SCGB](http://losttalentgroup.bot.nu/)
-- [Github repository](https://github.com/Monsterovich/soundcloud-group-bot)
+- [Gitlab repository](https://gitlab.com/Monsterovich/soundcloud-group-bot)
 
 
