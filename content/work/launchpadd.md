@@ -1,4 +1,7 @@
 
+**Videos**
+
+{{< youtube_lpd >}}
 
 LaunchpadD is a fully configurable music creation tool for android platform.
 
