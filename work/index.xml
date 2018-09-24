@@ -12,12 +12,20 @@
     
     <item>
       <title></title>
+      <link>http://monsterovich.ml/work/gitlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://monsterovich.ml/work/gitlab/</guid>
+      <description>Discover my other projects on gitlab!</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://monsterovich.ml/work/launchpadd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://monsterovich.ml/work/launchpadd/</guid>
-      <description>Videos
-  LaunchpadD is a fully configurable music creation tool for android platform.
+      <description>LaunchpadD is a fully configurable music creation tool for android platform. Download from bitbucket
 Features
  Client/server support! MIDI support! Very light and easy GUI that&amp;rsquo;s configured specially for your display size. Configurable amount of sound buttons. Large amount of button options &amp;amp; commands. You can touch multiple buttons in the same time. User-defined GUI style for buttons and borders. Supported multiple types of audio formats. Optimized to decrease sound latency: small audio buffers and all samples preloaded.</description>
     </item>
