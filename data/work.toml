@@ -13,3 +13,7 @@ title = "Projects & Art"
 [[projects]]
     name = "Soundcloud Group Bot"
     folder = "scgb"
+
+[[projects]]
+    name = "My GitLab Repository"
+    folder = "gitlab"
