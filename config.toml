@@ -45,9 +45,9 @@ uglyurls = false
 		title = "About me"
 		bio = "A rising artist from Russia. Since 2010-2012 I started producing tracks in various genres (mostly soundtracks). All my songs are original except some remixes that are not bad either. Also I develop various software, including software for musicians & DJs. "
 
-		[[params.about.skills]]
-			name = "New track - Fearless (Done!!!)"
-			value = 10
+#		[[params.about.skills]]
+#			name = "New track - Fearless (Done!!!)"
+#			value = 10
 
 
 	# Contact secion
