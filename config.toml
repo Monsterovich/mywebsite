@@ -34,7 +34,7 @@ uglyurls = false
 	# Do the same with the logo ('logo.svg').
 	# But keep the original filename!
 	[params.header]
-		title = "Monsterovich"
+		title = "Nikolay Borodin aka Monsterovich"
 		shortBio = "Producer // Programmer // Artist"
 
 
@@ -43,7 +43,7 @@ uglyurls = false
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "A rising artist from Russia. Since 2010-2012 I started producing tracks in various genres (mostly soundtracks). All my songs are original except some remixes that are not bad either. Also I develop various software, including software for musicians & DJs. "
+		bio = "Programmer and rising artist from Russia. Since 2010-2012 I started producing tracks in various genres (mostly soundtracks). All my songs are original except some remixes that are not bad either. Also I develop software, including software for musicians & DJs."
 
 #		[[params.about.skills]]
 #			name = "New track - Fearless (Done!!!)"
