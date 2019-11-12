@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monsterovich&#39;s website</title>
-    <link>http://monsterovich.ml/</link>
+    <link>https://monsterovich.github.io/mywebsite/</link>
     <description>Recent content on Monsterovich&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://monsterovich.ml/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://monsterovich.github.io/mywebsite/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://monsterovich.ml/work/gitlab/</link>
+      <link>https://monsterovich.github.io/mywebsite/work/gitlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://monsterovich.ml/work/gitlab/</guid>
+      <guid>https://monsterovich.github.io/mywebsite/work/gitlab/</guid>
       <description>Discover my other projects on gitlab!</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://monsterovich.ml/work/launchpadd/</link>
+      <link>https://monsterovich.github.io/mywebsite/work/launchpadd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://monsterovich.ml/work/launchpadd/</guid>
+      <guid>https://monsterovich.github.io/mywebsite/work/launchpadd/</guid>
       <description>LaunchpadD is a fully configurable music creation tool for android platform. Download from bitbucket
 Features
  Client/server support! MIDI support! Very light and easy GUI that&amp;rsquo;s configured specially for your display size. Configurable amount of sound buttons. Large amount of button options &amp;amp; commands. You can touch multiple buttons in the same time. User-defined GUI style for buttons and borders. Supported multiple types of audio formats. Optimized to decrease sound latency: small audio buffers and all samples preloaded.</description>
@@ -32,10 +32,10 @@ Features
     
     <item>
       <title></title>
-      <link>http://monsterovich.ml/work/mymusic/</link>
+      <link>https://monsterovich.github.io/mywebsite/work/mymusic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://monsterovich.ml/work/mymusic/</guid>
+      <guid>https://monsterovich.github.io/mywebsite/work/mymusic/</guid>
       <description>The best tracks:
    All tracks on soundcloud
 Buy my tracks on Bandcamp in high quality here!
@@ -45,10 +45,10 @@ You can donate if you like what I do:
     
     <item>
       <title></title>
-      <link>http://monsterovich.ml/work/scgb/</link>
+      <link>https://monsterovich.github.io/mywebsite/work/scgb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://monsterovich.ml/work/scgb/</guid>
+      <guid>https://monsterovich.github.io/mywebsite/work/scgb/</guid>
       <description>Since soundcloud has removed the group feature we&amp;rsquo;ve created very small python application called &amp;ldquo;SoundCloud Group Bot&amp;rdquo;, which automatically reposts tracks and playlists submitted to the “group” when user puts URL of track in the comment section, creating a nice list of submissions.
 Despite the fact that the soundcloud API has a lot of limitations, this program works perfectly.
 See more:
