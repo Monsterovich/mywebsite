@@ -1,5 +1,5 @@
 
-![your_img](mywebsite/img/launchpadd_new_logo.png#center)
+![your_img](img/launchpadd_new_logo.png#center)
 
 LaunchpadD is a fully configurable music creation tool for android platform. [Download from bitbucket](https://bitbucket.org/Monsterovich/launchpad_daemon/)
 
