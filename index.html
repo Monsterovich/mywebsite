@@ -244,9 +244,12 @@
             
             </nav>
 
-            <p class="copyright">All content copyright 2019 </p>
+            <p class="copyright">All content copyright <span id="year"></span></p>
         </div>
     </div>
+<script>
+    document.getElementById("year").innerHTML = new Date().getFullYear();
+</script>
 </footer>
 
 
